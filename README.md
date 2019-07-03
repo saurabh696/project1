@@ -1,2 +1,2 @@
 # project1
-Logistic regression on HR datasets 
+Logistic regression on HR dataset
